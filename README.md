@@ -1,6 +1,6 @@
 👋 Hello World!  
 
-🔭 I'm Yusuf, a dedicated web developer. I'm passionate about leveraging technology to solve real-world problems and I thrive on challenges in the coding realm. 💡💻
+🔭 I'm Yusuf, a mechanical engineer who loves coding. I'm passionate about leveraging technology to solve real-world problems and I thrive on challenges in the coding realm. 💡💻
 
 🚀 Currently immersed in php and js stacks, open to new opportunities and seeking paid projects. I'm always open to collaboration and eager to contribute to exciting projects. Feel free to consult me on anything related to my interests. I'm here to help you navigate the coding universe. I specialize in developing robust solutions for e-commerce platforms, optimizing shipping processes, implementing efficient taxing systems, integrating payment systems, crafting MLM solutions, and more. Beyond coding, I'm also well-versed in project management.
 
