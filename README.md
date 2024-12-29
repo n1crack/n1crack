@@ -1,8 +1,21 @@
-👋 Hello! I'm Yusuf, a seasoned Mechanical Engineer turned Senior Software Engineer with a strong background in PHP and JavaScript. With a passion for leveraging technology to solve complex real-world problems, I bring a robust engineering mindset to the coding realm. 💡💻
+👋 Hi, I’m Yusuf!
 
-🔭 I specialize in developing and optimizing solutions for CMS, custom apps, and integrations, with a strong focus on successful project delivery. One of my core strengths is my ability to identify, diagnose, and fix bugs efficiently. I have a keen eye for detail and a methodical approach to troubleshooting, ensuring that software runs smoothly and reliably.
+I bring a unique engineering perspective to software development, blending precision, problem-solving, and innovation. Transitioning from a mechanical background to software, I excel at creating robust, scalable, and efficient solutions. 
 
-📫 Reach out to me at yusuf@ozdemir.be for inquiries or collaborations. Let's work together to create cutting-edge solutions and drive success!
+I’m passionate about tackling real-world problems with technology. My goal is to craft software that delivers value, simplifies processes, and empowers users to succeed.
+
+When I have free time, I love contributing to open-source projects and building tools that help developers work smarter.
+
+
+***What I Do***
+
+  - [x]  Custom Applications: Developing tailored solutions for businesses and clients.
+  - [x] Problem Solver: Identifying, diagnosing, and resolving issues swiftly and effectively.
+  - [x] Optimized Delivery: Ensuring every project meets high-quality standards.
+
+***Let’s connect!***
+
+Reach out via email: yusuf@ozdemir.be
 
 
 <!--
